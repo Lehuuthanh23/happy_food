@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAenZu0E2e3GxlO7qjiO2BJBkI6E60s_fw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>346466899535</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.happyFood.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>happyfoodapp-f3dfe</string>
+	<key>STORAGE_BUCKET</key>
+	<string>happyfoodapp-f3dfe.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:346466899535:ios:d165ff1d4f726ff550fc3a</string>
+</dict>
+</plist>

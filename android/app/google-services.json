@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "346466899535",
+    "project_id": "happyfoodapp-f3dfe",
+    "storage_bucket": "happyfoodapp-f3dfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346466899535:android:966b08917a63a1b350fc3a",
+        "android_client_info": {
+          "package_name": "com.example.happy_food"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWYs7DCgTj0gXwbSqG2KMtl-9cACY4hzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
